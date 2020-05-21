@@ -1,7 +1,7 @@
 //----------------------------------------------------------------------
 // Author: Michael Calmette
 //
-// TODO: Description here
+// TODO: Test for each function
 //----------------------------------------------------------------------
 
 #include <iostream>
