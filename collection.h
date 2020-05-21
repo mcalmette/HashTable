@@ -1,8 +1,5 @@
 
 //----------------------------------------------------------------------
-// Author: S. Bowers
-// Course: CPSC 223, Spring 2020
-// Assign: 3
 // File:   collection.h
 //
 // Assumptions:
