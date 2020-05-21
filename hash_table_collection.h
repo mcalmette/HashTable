@@ -2,6 +2,7 @@
 // Author: Michael Calmette
 // File:   hash_table_collection.h
 // Implement a hash table 
+//
 //----------------------------------------------------------------------
 
  
