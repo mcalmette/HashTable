@@ -1,7 +1,5 @@
 //----------------------------------------------------------------------
 // Author: Michael Calmette
-// Course: CPSC 223, Spring 2020
-// Assign: 8
 // File:   hash_table_collection.h
 // Implement a hash table 
 //----------------------------------------------------------------------
